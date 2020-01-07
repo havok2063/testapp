@@ -1,4 +1,4 @@
-# testapp
+# vueapp
 
 ## Project setup
 ```
